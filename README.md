@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Founders drone is a repo of images of founders or future founders taken by a 'drone'.
+Founders drone is a repo of images of founders and future founders taken by a 'drone'.
 
 ## Why are we doing this?
 
